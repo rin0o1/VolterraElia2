@@ -202,8 +202,6 @@ public class MainActivity extends Activity
             fragment = new PagesFragment();
             break;
         case 5:
-            /** sostituito il fragment con una funzione perche non risultava utile**/
-            //fragment = new WhatsHotFragment();
             OpenLinkPlayStore();
             break;
         case 6:
@@ -226,16 +224,9 @@ public class MainActivity extends Activity
             break;
         }
 
-       /** ConnectivityManager ConnessioneDevice = (ConnectivityManager)getSystemService(Context.CONNECTIVITY_SERVICE);
-
-        /**
-         * Take connection's state(true-> connected, false-> don't connected of the device
-        boolean Connesso  = (ConnessioneDevice.getNetworkInfo(ConnectivityManager.TYPE_MOBILE).getState() == NetworkInfo.State.CONNECTED ||
-                ConnessioneDevice.getNetworkInfo(ConnectivityManager.TYPE_WIFI).getState() == NetworkInfo.State.CONNECTED) ;**/
-
         FragmentManager fragmentManager = getFragmentManager();
-
-        if (fragment != null && IsConnected())
+        Boolean ConnectionState= IsConnected();
+        if (fragment != null && ConnectionState)
         {
             fragmentManager.beginTransaction()
                     .replace(R.id.frame_container, fragment).commit();
@@ -246,10 +237,10 @@ public class MainActivity extends Activity
             setTitle(navMenuTitles[position]);
             mDrawerLayout.closeDrawer(mDrawerList);
         }
-        /**
+        /*
          * If the device is not connected ...
-        * **/
-        else if( !IsConnected())
+        * */
+        else if( !ConnectionState)
         {
             fragment= new FailedConnectionFragment();
             fragmentManager.beginTransaction()
@@ -265,7 +256,7 @@ public class MainActivity extends Activity
     }
 
 
-    private boolean IsConnected()
+    private boolean IsConnected() //Return True if the device is connected to Internet
     {
         ConnectivityManager ConnessioneDevice = (ConnectivityManager)getSystemService(Context.CONNECTIVITY_SERVICE);
         boolean Connesso  = (ConnessioneDevice.getNetworkInfo(ConnectivityManager.TYPE_MOBILE).getState() == NetworkInfo.State.CONNECTED ||

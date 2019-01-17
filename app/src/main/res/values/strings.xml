@@ -41,7 +41,7 @@
     <!-- Content Description -->
     <string name="desc_list_item_icon">Item Icon</string>
     
-    <string name="HomeFragment_TextView_Name_Student"> Studente: Francesco Rinaldi 4AI</string>
+    <string name="HomeFragment_TextView_Name_Student"> Sviluppata da: Giovanelli Joseph  \nAggiornata da: Rinaldi Francesco \nSupervisore: Prof. Pistoia Antonio </string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

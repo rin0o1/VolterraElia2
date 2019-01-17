@@ -260,6 +260,10 @@
         "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\youtube.png"
     },
     {
+        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nomescuola.png.flat",
+        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable\\nomescuola.png"
+    },
+    {
         "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orario.png.flat",
         "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\orario.png"
     },
@@ -336,12 +340,12 @@
         "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_youtube.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_museo_link.png.flat",
         "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_museo_link.png"
+    },
+    {
+        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_failed_connection.xml.flat",

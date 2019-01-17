@@ -55,6 +55,7 @@ color Salmon
 color SandyBrown
 color Tomato
 color Wheat
+color White
 color WhiteSmoke
 color counter_text_bg
 color counter_text_color
@@ -116,6 +117,7 @@ drawable list_item_bg_pressed
 drawable list_selector
 drawable logo
 drawable moodle
+drawable nomescuola
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
