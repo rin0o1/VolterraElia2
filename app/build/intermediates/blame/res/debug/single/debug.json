@@ -1,362 +1,358 @@
 [
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_error_find_page.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_error_find_page.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pages.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_pages.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_youtube.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_youtube.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_pressed.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout\\notification_template_part_time.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshare.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_slideshare.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection_sotto.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection_sotto.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_media.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_google.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_google.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout\\notification_template_custom_big.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_failed_connection.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_failed_connection.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\google.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_people.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_linkedin.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_linkedin.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pages.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_pages.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_find_people.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_find_people.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_is.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\is.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection_sinistra.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection_sinistra.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_whats_hot.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_whats_hot.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list_item.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_images.jpg.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_whats_hot.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_whats_hot.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_whats_hot.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_whats_hot.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list_item.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection_destra.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection_destra.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_community.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_community.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout-v16\\notification_template_custom_big.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_pressed.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moodle.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\moodle.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photos.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_photos.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photos.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_photos.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable\\list_selector.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nuovo.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_nuovo.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slideshare.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\slideshare.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection_destra.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection_destra.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_photos.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_photos.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout\\notification_action.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection_sotto.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection_sotto.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_counter_bg.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable\\counter_bg.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_google.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_google.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_communities.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_communities.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shop.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\shop.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_linkedin.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_linkedin.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_museo_link.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_museo_link.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_big_media.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youtube.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\youtube.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable\\notification_bg.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scuola.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\scuola.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable\\notification_bg_low.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_linkedin.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\linkedin.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_counter_bg.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_find_people.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_find_people.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_is.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\img_is.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable\\notification_icon_background.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable\\list_selector.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_images.jpg.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_photos.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_photos.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_linkedin.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\linkedin.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moodle.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\moodle.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youtube.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\youtube.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nomescuola.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable\\nomescuola.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nuovo.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_nuovo.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orario.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\orario.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slideshare.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\slideshare.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_community.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_community.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_people.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_is.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\img_is.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scuola.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\scuola.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\google.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout-v21\\notification_action.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pages.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_pages.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_whats_hot.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_whats_hot.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_communities.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\ic_communities.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orario.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\orario.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshare.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_slideshare.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\a12fd929eb1139fed6489d70915388fd\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pages.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_pages.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_is.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\is.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_media_action.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_failed_connection_sinistra.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-mdpi\\img_failed_connection_sinistra.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_youtube.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_youtube.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_museo_link.png.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\drawable-hdpi\\ic_museo_link.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shop.png.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\drawable-hdpi\\shop.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_failed_connection.xml.flat",
-        "source": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\src\\main\\res\\layout\\fragment_failed_connection.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\f44c650fbde79d1d7127286344f3c5d8\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_error_find_page.xml.flat",
+        "source": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\src\\main\\res\\layout\\fragment_error_find_page.xml"
     }
 ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "F:\\Android\\AndroidStudioProjects\\VolterraEliaRinaldi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\s23100\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\834306d6095971d5ec7bfae4ccca70bf\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d815ae204c5dde6a43b509d90715922a\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
