@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Dec 17 15:57:18 CET 2018
+#Fri Apr 12 18:29:43 CEST 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=C\:\\Users\\s23100\\Desktop\\Volterra_Rinaldi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex
 0.set=DEX
 count=1

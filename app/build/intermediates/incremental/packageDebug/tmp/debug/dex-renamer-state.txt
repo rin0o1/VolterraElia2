@@ -1,4 +1,4 @@
-#Thu Jan 17 17:35:48 CET 2019
-base.0=C\:\\Users\\s23100\\Desktop\\VolterraElia2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Fri Apr 12 18:29:43 CEST 2019
+base.0=C\:\\Users\\s23100\\Desktop\\Volterra_Rinaldi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

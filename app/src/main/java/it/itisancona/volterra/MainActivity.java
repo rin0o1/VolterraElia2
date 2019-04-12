@@ -226,6 +226,8 @@ public class MainActivity extends Activity
 
         FragmentManager fragmentManager = getFragmentManager();
         Boolean ConnectionState= IsConnected();
+
+        //The device is connected
         if (fragment != null && ConnectionState)
         {
             fragmentManager.beginTransaction()
@@ -237,26 +239,30 @@ public class MainActivity extends Activity
             setTitle(navMenuTitles[position]);
             mDrawerLayout.closeDrawer(mDrawerList);
         }
-        /*
-         * If the device is not connected ...
-        * */
+        //The device is not connected...
         else if( !ConnectionState)
         {
             fragment= new FailedConnectionFragment();
+
             fragmentManager.beginTransaction()
                     .replace(R.id.frame_container, fragment).commit();
             mDrawerList.setItemChecked(position, true);
+
             setTitle("Connection Error");
             mDrawerLayout.closeDrawer(mDrawerList);
         }
-        else {
-            // error in creating fragment
+        // error in creating fragment
+        else
+        {
+
             Log.e("MainActivity", "Error in creating fragment");
         }
     }
 
 
-    private boolean IsConnected() //Return True if the device is connected to Internet
+
+    //Check the connection state
+    private boolean IsConnected()
     {
         ConnectivityManager ConnessioneDevice = (ConnectivityManager)getSystemService(Context.CONNECTIVITY_SERVICE);
         boolean Connesso  = (ConnessioneDevice.getNetworkInfo(ConnectivityManager.TYPE_MOBILE).getState() == NetworkInfo.State.CONNECTED ||
@@ -288,8 +294,8 @@ public class MainActivity extends Activity
         mDrawerToggle.onConfigurationChanged(newConfig);
     }
 
-
-    private void OpenLinkPlayStore() /**go to play store linked below**/
+    /**go to play store linked below, to open  "Laboratorio Museale" in the PlayStore**/
+    private void OpenLinkPlayStore()
     {
         startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" +getString(R.string.LinkPlayStore)) ));
     }
